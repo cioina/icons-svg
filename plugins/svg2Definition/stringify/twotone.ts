@@ -1,23 +1,23 @@
-import { StringifyFn, AbstractNodeDefinition } from '..';
+import type { AbstractNodeDefinition, StringifyFn } from '..';
 import {
-  applyTo,
-  map,
-  join,
-  pipe,
   ap,
-  toUpper,
-  toLower,
-  evolve,
-  toPairs,
-  replace,
   apply,
-  flip,
-  compose,
-  zipWith,
-  call,
+  applyTo,
   assoc,
+  call,
   clone,
-  prop
+  compose,
+  evolve,
+  flip,
+  join,
+  map,
+  pipe,
+  prop,
+  replace,
+  toLower,
+  toPairs,
+  toUpper,
+  zipWith
 } from 'ramda';
 
 const __PLACEHOLDER__ = 'TWOTONE_ICON_FUNCTION_HOLDER';

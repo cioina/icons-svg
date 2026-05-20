@@ -6,8 +6,7 @@ import type { UseTemplatePluginOptions } from '../../plugins/useTemplate';
 import { optimizeSvg, svg2Definition, useTemplate } from '../../plugins';
 
 export interface GenerateIconsOptions
-  extends SVG2DefinitionOptions,
-    UseTemplatePluginOptions {
+  extends SVG2DefinitionOptions, UseTemplatePluginOptions {
   from: string[];
   toDir: string;
   svgoConfig: Config;

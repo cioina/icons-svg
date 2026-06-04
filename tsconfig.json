@@ -7,6 +7,9 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "jsx": "preserve",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "types": [ "node" ],
+    "rootDir": ".",
+    "ignoreDeprecations": "6.0"
   }
 }

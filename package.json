@@ -32,9 +32,9 @@
     "url": "https://github.com/ant-design/ant-design-icons/issues"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
-    "@babel/preset-env": "^7.29.5",
-    "@babel/preset-typescript": "^7.28.5",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "@babel/preset-typescript": "^7.29.7",
     "@rgrove/parse-xml": "^4.2.0",
     "@types/gulp": "^4.0.18",
     "@types/gulp-concat": "^0.0.37",
@@ -44,13 +44,13 @@
     "@types/lodash.camelcase": "^4.3.9",
     "@types/lodash.template": "^4.5.3",
     "@types/lodash.upperfirst": "^4.3.9",
-    "@types/node": "^24.12.4",
+    "@types/node": "^24.13.0",
     "@types/ramda": "^0.31.1",
     "@types/through2": "^2.0.41",
-    "@typescript-eslint/eslint-plugin": "^8.59.4",
-    "@typescript-eslint/parser": "^8.59.4",
-    "@typescript-eslint/type-utils": "^8.59.4",
-    "@typescript-eslint/utils": "^8.59.4",
+    "@typescript-eslint/eslint-plugin": "^8.60.1",
+    "@typescript-eslint/parser": "^8.60.1",
+    "@typescript-eslint/type-utils": "^8.60.1",
+    "@typescript-eslint/utils": "^8.60.1",
     "cross-env": "^7.0.3",
     "del": "^6.1.1",
     "eslint": "^9.39.4",
@@ -70,8 +70,8 @@
     "svgo": "^4.0.1",
     "through2": "^4.0.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3",
-    "typescript-eslint": "^8.59.4",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.60.1",
     "vinyl": "^3.0.1"
   }
 }

@@ -4,7 +4,7 @@
     "target": "esnext",
     "module": "commonjs",
     "moduleResolution": "node",
-    "types": [ "node" ],
+    "types": ["node"],
     "sourceMap": true
   }
 }

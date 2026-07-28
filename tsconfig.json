@@ -8,7 +8,7 @@
     "esModuleInterop": true,
     "jsx": "preserve",
     "skipLibCheck": true,
-    "types": [ "node" ],
+    "types": ["node"],
     "rootDir": ".",
     "ignoreDeprecations": "6.0"
   }

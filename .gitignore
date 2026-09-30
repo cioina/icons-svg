@@ -1,0 +1,40 @@
+.DS_Store
+node_modules/
+**/*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.eslintcache
+.idea
+.vscode
+.vs
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# lock
+package-lock.json
+
+# rollup cache
+.rpt2_cache
+
+# auto generated
+_site/
+.cache
+public
+src
+inline-svg/
+inline-namespaced-svg
+!docs/inline-svg
+es
+lib
+
+# docz
+.docz
+docz-dist
+
+# publish
+*.tgz
